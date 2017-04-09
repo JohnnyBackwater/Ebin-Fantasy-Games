@@ -1,0 +1,3 @@
+for (int i = 2; i < split.length; i=i+2) {
+	System.out.println("data "+split[i-1]+" value "+split[i]);
+}

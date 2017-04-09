@@ -1,0 +1,11 @@
+name:Bat
+luokka:Beast
+lvl:1
+str:2
+agi:5
+inte:1
+bty:1
+luck:1
+gold:10
+primary:str
+skill:Bite
